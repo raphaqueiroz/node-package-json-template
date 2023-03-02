@@ -1,0 +1,19 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula  backend barbosa c",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js brazil", 
+    "buscaPorLetra": "clear && node buscaPorLetra b", 
+    "novoPais": "clear && node incluirPais.js Timorleste TL", 
+    "saudacao": "clear && node saudacao.js Raphael 31"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/labenuexercicios/node-package-json-template.git)"
+  },
+  "author": "Raphael Queiroz",
+  "license": "ISC"
+}
